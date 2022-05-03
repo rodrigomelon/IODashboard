@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IODashboard/static/css/main.6aed0a73.css",
+    "main.js": "/IODashboard/static/js/main.0d8ca829.js",
+    "index.html": "/IODashboard/index.html",
+    "main.6aed0a73.css.map": "/IODashboard/static/css/main.6aed0a73.css.map",
+    "main.0d8ca829.js.map": "/IODashboard/static/js/main.0d8ca829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aed0a73.css",
+    "static/js/main.0d8ca829.js"
+  ]
+}
