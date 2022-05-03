@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IODashboard/static/css/main.6aed0a73.css",
-    "main.js": "/IODashboard/static/js/main.0d8ca829.js",
+    "main.css": "/IODashboard/static/css/main.af33ce17.css",
+    "main.js": "/IODashboard/static/js/main.c5c49f7d.js",
     "index.html": "/IODashboard/index.html",
-    "main.6aed0a73.css.map": "/IODashboard/static/css/main.6aed0a73.css.map",
-    "main.0d8ca829.js.map": "/IODashboard/static/js/main.0d8ca829.js.map"
+    "main.af33ce17.css.map": "/IODashboard/static/css/main.af33ce17.css.map",
+    "main.c5c49f7d.js.map": "/IODashboard/static/js/main.c5c49f7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6aed0a73.css",
-    "static/js/main.0d8ca829.js"
+    "static/css/main.af33ce17.css",
+    "static/js/main.c5c49f7d.js"
   ]
 }
